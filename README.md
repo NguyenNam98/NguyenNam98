@@ -12,10 +12,10 @@ I'm a passionate Software Engineer from Viet Nam, currently I am living in Austr
 
 ## Skills
 
-- Python, JavaScript
-- ReactJS, Node.js, Django
+- JavaScript, Typescript, Python
+- ReactJS, Node.js, Django, Nestjs
 - Docker, AWS
-- MYSQL, Firebase, MongoDB
+- MySQL, Firebase, MongoDB
 
 ## Connect with Me
 
@@ -24,7 +24,7 @@ I'm a passionate Software Engineer from Viet Nam, currently I am living in Austr
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyennam98&show_icons=true&theme=dark)](https://github.com/NguyenNam98)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nguyennam98&show_icons=true&theme=dark)](https://github.com/NguyenNam98)
 
 
 If you're interested in collaborating or have any questions, please don't hesitate to reach out.
