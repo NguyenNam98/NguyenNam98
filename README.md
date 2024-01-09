@@ -8,7 +8,6 @@ I'm a passionate Software Engineer from Viet Nam, currently I am living in Austr
 - 🌱 I'm currently pursuing master computer science.
 - 💬 Ask me about software architecture, system design, and coding best practices.
 - 📫 How to reach me: michalnam98@gmail.com
-- 😄 Pronouns: He/Him
 
 ## Skills
 
