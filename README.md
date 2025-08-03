@@ -14,7 +14,7 @@ I'm a passionate Software Engineer from Viet Nam, currently I am living in Austr
 - JavaScript, Typescript, Python
 - ReactJS, Node.js, Django, Nestjs
 - Docker, AWS
-- MySQL, Firebase, MongoDB
+- Postgresql, MySQL, Firebase
 
 ## Connect with Me
 
